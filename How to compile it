@@ -1,0 +1,7 @@
+///this compilation it works on ubuntu
+step1: Open the terminal 
+step2: go to the directory that you have the file in
+step3: type 'java.c OnlineTest.java'
+step4: type 'java OnlineTest'
+
+I hope it works with you :)
